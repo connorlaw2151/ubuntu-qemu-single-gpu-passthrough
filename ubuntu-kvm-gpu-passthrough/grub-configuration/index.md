@@ -31,6 +31,6 @@ Run `sudo update-grub`. This will update the grub boot loader based on the confi
 Reboot your system using `sudo reboot`. This is neccessary for the configuration changes to take effect, so don't skip it.
 
 
-[Home](ubuntu-kvm-gpu-passthrough/)  
-[Previous](ubuntu-kvm-gpu-passthrough/bios)  
-[Next](ubuntu-kvm-gpu-passthrough/iommu-groups/)
+[Home](/ubuntu-kvm-gpu-passthrough/)  
+[Previous](/ubuntu-kvm-gpu-passthrough/bios)  
+[Next](/ubuntu-kvm-gpu-passthrough/iommu-groups/)

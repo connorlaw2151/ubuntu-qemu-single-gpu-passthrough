@@ -12,5 +12,5 @@ sudo apt upgrade
 + Install the most updated graphics drivers for your system.  
 For Ubuntu, you can type press the superkey and type `Additional Drivers`, launching the corresponding program to assist you in the installation of appropriate drivers
 
-[Home](ubuntu-kvm-gpu-passthrough/)  
-[Next](ubuntu-kvm-gpu-passthrough/bios/)
+[Home](/ubuntu-kvm-gpu-passthrough/)  
+[Next](/ubuntu-kvm-gpu-passthrough/bios/)

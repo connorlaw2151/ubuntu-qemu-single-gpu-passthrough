@@ -7,7 +7,7 @@ I'll write the introduction later. For now, I must prepare this for Hunter.
 
 
 ### Phases
-+ [Prerequisites](ubuntu-kvm-gpu-passthrough/prerequisites/)
-+ [Bios](ubuntu-kvm-gpu-passthrough/bios/)
-+ [Grub Configuration](ubuntu-kvm-gpu-passthrough/grub-configuration/)
-+ [IOMMU Groups](ubuntu-kvm-gpu-passthrough/iommu-groups/)
++ [Prerequisites](prerequisites/)
++ [Bios](bios/)
++ [Grub Configuration](grub-configuration/)
++ [IOMMU Groups](iommu-groups/)

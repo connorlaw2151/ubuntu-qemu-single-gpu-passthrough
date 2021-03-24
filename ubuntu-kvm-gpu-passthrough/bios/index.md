@@ -10,6 +10,6 @@ For Intel Processors:
 + VT-D = enabled or on
 + VT-X = enabled or on
 
-[Home](ubuntu-kvm-gpu-passthrough/)  
-[Previous](ubuntu-kvm-gpu-passthrough/prerequisites)  
-[Next](ubuntu-kvm-gpu-passthrough/grub-configuration/)
+[Home](/ubuntu-kvm-gpu-passthrough/)  
+[Previous](/ubuntu-kvm-gpu-passthrough/prerequisites)  
+[Next](/ubuntu-kvm-gpu-passthrough/grub-configuration/)
