@@ -1,2 +1,5 @@
 # Passthrough of a Single GPU for use on a VM - Ubuntu
-You could want to do a lot of things using a virtual machine.
+I'll write the description later. For now, I must prepare this for Hunter.
+
+### Phases
++ [Bios](/bios)
