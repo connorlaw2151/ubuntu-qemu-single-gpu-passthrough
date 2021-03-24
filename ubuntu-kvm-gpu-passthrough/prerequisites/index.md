@@ -1,4 +1,4 @@
-# Passthrough of a Single GPU for use on a VM - Ubuntu
+## Passthrough of a Single GPU for use on a VM - Ubuntu
 # Prerequsites
 For this tutorial, you should have a working understanding of the linux terminal, previous experiance configuring applications in your terminal will be of assistance, a decent understanding of the working of workings of the linux kernal and software on your system is a plus, and an understanding of virtualization software is a plush.
 

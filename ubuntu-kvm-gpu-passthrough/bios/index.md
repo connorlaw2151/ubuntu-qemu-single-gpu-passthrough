@@ -1,4 +1,4 @@
-# Passthrough of a Single GPU for use on a VM - Ubuntu
+## Passthrough of a Single GPU for use on a VM - Ubuntu
 # BIOS Changes
 Reboot and enter your bios. Change the CPU Configuration and ensure the following are enabled:  
 For AMD Processors:
@@ -9,6 +9,8 @@ For AMD Processors:
 For Intel Processors:
 + VT-D = enabled or on
 + VT-X = enabled or on
+
+Making these changes enables the Virtualization Technologies for your platform.
 
 [Home](/ubuntu-kvm-gpu-passthrough/)  
 [Previous](/ubuntu-kvm-gpu-passthrough/prerequisites)  

@@ -1,4 +1,4 @@
-# Passthrough of a Single GPU for use on a VM - Ubuntu
+## Passthrough of a Single GPU for use on a VM - Ubuntu
 # IOMMU Groups
 
 [Home](/ubuntu-kvm-gpu-passthrough/)  
